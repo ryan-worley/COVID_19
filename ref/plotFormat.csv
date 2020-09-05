@@ -1,0 +1,13 @@
+﻿key,title,xaxis,yaxis
+hospitalizedCurrently,Currently in Hospital,Date,Current Patients
+hospitalizedIncrease,Increase in Hospitalization,Date,Patients Admitted Today
+hospitalizedCumulative,Cummulative Hospitalized Patients,Date,Total Patients
+inIcuCurrently,Currently in ICU,Date,Current Patients
+inIcuCumulative,Cummulative ICU Patients,Date,Total Patients
+onVentilatorCurrently,Currently on Ventilators,Date,Current Patients
+onVentilatorCumulative,Cummulative Ventilator Patients,Date,Total Patients
+totalTestsViral,Cummulative Testing Data,Date,Cumulative Tests
+totalTestResultsIncrease,Daily Testing Data,Date,Total Daily Tests
+positiveIncrease,Daily Testing Results,Date,Total Daily Tests
+positiveRate,Positive Testing Rate,Date,Positive Rate
+negativeIncrease,Daily Testing Results,Date,Total Daily Tests
